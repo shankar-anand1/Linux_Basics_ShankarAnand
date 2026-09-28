@@ -4,7 +4,7 @@ DevOps assignment – file and directory commands, viewing files, grep, zip, wge
 
 Student: Shankar Anand
 
-GitHub: (paste your repo URL here after you push)
+GitHub: https://github.com/shankar-anand1/Linux_Basics_ShankarAnand
 
 How I ran this:
 - Ubuntu / Linux terminal
